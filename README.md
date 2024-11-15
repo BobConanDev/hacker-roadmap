@@ -202,7 +202,7 @@ Used for intrusion detection and wifi attacks.
 
 #### :wrench: Exploitation Tools
 
-Acesss systems and data with service-oriented exploits.
+Access systems and data with service-oriented exploits.
 
 | Tool                                                    | Language   | Support               | Description                                                  |
 | ------------------------------------------------------- | ---------- | --------------------- | ------------------------------------------------------------ |
